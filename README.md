@@ -19,11 +19,11 @@ On the release page, download the ZIP file attached under **Assets**.
 > [!IMPORTANT]
 > Do not download the automatically generated **Source code (zip)** or **Source code (tar.gz)** files provided by GitHub. These files contain the repository source code and are not the installable version of the mod.
 
-Extract the downloaded mod ZIP file and follow the installation instructions included inside the ZIP archive.
+Extract the downloaded mod ZIP file and follow the requirements and installation instructions included inside the ZIP archive.
 
 ## Source Code
 
-When .ts4script is included in a mod, the mod's editable source python files are available in the [`src/`](src/) directory.
+When .ts4script is included in the mod, the mod's editable source python files are available in the [`src/`](src/) directory.
 
 These files are provided for transparency, reference, and development purposes. Players only interested in installing the mod should use the ZIP file available from the latest release.
 
