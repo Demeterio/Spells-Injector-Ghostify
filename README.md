@@ -23,7 +23,7 @@ Extract the downloaded mod ZIP file and follow the installation instructions inc
 
 ## Source Code
 
-The mod's editable source files are available in the [`src/`](src/) directory.
+When .ts4script is included in a mod, the mod's editable source python files are available in the [`src/`](src/) directory.
 
 These files are provided for transparency, reference, and development purposes. Players only interested in installing the mod should use the ZIP file available from the latest release.
 
