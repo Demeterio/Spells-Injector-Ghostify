@@ -19,7 +19,7 @@ On the release page, download the ZIP file attached under **Assets**.
 > [!IMPORTANT]
 > Do not download the automatically generated **Source code (zip)** or **Source code (tar.gz)** files provided by GitHub. These files contain the repository source code and are not the installable version of the mod.
 
-Extract the downloaded mod ZIP file and follow the installation instructions available inside the ZIP.
+Extract the downloaded mod ZIP file and follow the installation instructions included inside the ZIP archive.
 
 ## Source Code
 
