@@ -44,7 +44,7 @@ Installation instructions are included inside the ZIP archive.
 
 ## Source code for this Release
 
-The source code is available in the [`src/`](../../tree/main/src) folder.
+When a .ts4script is included in a mod, the python source code is available in the [`src/`](../../tree/main/src) folder.
 
 To inspect the source code corresponding to this exact Release, select the matching release tag from the branch and tag selector, then open the `src/` folder.
 
