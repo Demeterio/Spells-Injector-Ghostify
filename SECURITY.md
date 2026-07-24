@@ -8,8 +8,6 @@ Please do not use GitHub Issues to report security concerns, bugs, compatibility
 
 ## Bug Reports and Support
 
-For bug reports, compatibility issues, installation help, or other questions, please use the official Mod The Sims page for this mod:
-
-[Mod The Sims – Mod Page](https://modthesims.info/d/668627/new-custom-spell-ghostify-and-vade-retro-phantasma.html)
+For bug reports, compatibility issues, installation help, or other questions, please use the official Mod The Sims page for this mod. See README.md.
 
 Reports submitted elsewhere may not be reviewed or answered.
